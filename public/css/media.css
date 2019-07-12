@@ -1,0 +1,51 @@
+/*Pc*/
+@media only screen and (max-width:1200px){
+    .hero-text-box {
+        width: 100%;
+        padding: 0 2%;
+}
+    .row {padding: 0 2%;}
+}
+/*small screen pc*/
+@media only screen and (max-width:1095px){
+    body {font-size: 23px;}
+    section{border: 53px 0;}
+}
+@media only screen and (max-width:1056px){
+    body {font-size: 21px;}
+}
+/*Tablets Devices*/
+@media only screen and (max-width:1023px){
+    body {font-size: 18px;}
+    section{border: 53px 0;}
+}
+/*Small Tablets Devices*/
+@media only screen and (max-width:862px){
+    body {font-size: 16px;}
+    .circle{
+        width: 145px;
+        height: 145px;
+    }
+    .SectionFormação p {
+        font-size: 95%;
+    }
+    .noborderSection {
+        height: 130vh;
+    }
+    .experiencias{
+        height: 86vh;
+    }
+    .experiencias p{
+        font-size: 90%;
+    }
+}
+/*larger Phones*/
+@media only screen and (max-width:787px){
+    body {
+        font-size: 14px;
+    }
+}
+/*Small Phones*/
+@media only screen and (max-width:480px){
+    
+}
